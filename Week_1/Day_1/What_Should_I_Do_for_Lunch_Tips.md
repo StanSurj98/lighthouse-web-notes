@@ -15,5 +15,3 @@ function whatToDoForLunch(hungry, availableTime) {
 Creating the code block above used backticks (`).
 
 (\```) Three in a row creates the start of a code block, you can specify the language afterwards (\```javascript [code here]```) for example.
-
-Hello this is a test
